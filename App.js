@@ -97,6 +97,7 @@ const styles = StyleSheet.create({
     borderColor: '#C0C0C0',
     borderWidth: 1,
     width: 250,
+    fontSize:20
   },
   addWrapper: {
     width: 60,
@@ -108,5 +109,7 @@ const styles = StyleSheet.create({
     borderColor: '#C0C0C0',
     borderWidth: 1,
   },
-  addText: {},
+  addText: {
+    fontSize:40
+  },
 });
